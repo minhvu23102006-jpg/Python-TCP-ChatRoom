@@ -9,9 +9,9 @@ Repository này bao gồm 2 phiên bản triển khai:
 ---
 
 ## Phân công và thành viên
-1. Nguyễn Phúc Khôi - 2410482: làm server   
-2. Phạm Tiến Hải - 2410422: làm client A
-3. Vũ Mạnh Hưng - 2410408: làm client B
+1. Trần Yến Nhi - 2410482: làm server   
+2. Trần Ngọc Hải - 2410422: làm client A
+3. Trương Minh Vũ - 2411082: làm client B
 
 ## Hướng dẫn sử dụng (Phiên bản Terminal)
 
