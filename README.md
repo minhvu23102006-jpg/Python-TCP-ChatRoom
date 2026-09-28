@@ -10,7 +10,7 @@ Repository này bao gồm 2 phiên bản triển khai:
 
 ## Phân công và thành viên
 1. Trần Yến Nhi - 2410750: làm server   
-2. Trần Ngọc Hải - 241: làm client A
+2. Trần Ngọc Hải - 2410424: làm client A
 3. Trương Minh Vũ - 2411082: làm client B
 
 ## Hướng dẫn sử dụng (Phiên bản Terminal)
